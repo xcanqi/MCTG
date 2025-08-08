@@ -1,3 +1,3 @@
 # MCTG
 
-The code will be pushed to the repository soon.
+All data and code will be available upon acceptance.
